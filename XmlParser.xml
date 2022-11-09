@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<parser>
+    <warningAt>
+        <value>0</value>
+    </warningAt>
+    <speed>
+        <value>1</value>
+    </speed>
+</parser>

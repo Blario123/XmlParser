@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>XmlParser.xml</file>    
+        <file>parser.xsd</file>    
+    </qresource> 
+</RCC>
